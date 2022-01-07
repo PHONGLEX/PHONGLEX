@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PHONGLEX
-- 👀 I’m interested in Python, C++, AWS, SQL, devops
+- 👀 I’m interested in Python, C++, AWS, SQL
 - 🌱 I’m currently learning AWS and devops, boost Python code with C++ (Pybind11), FastAPI
 - 💞️ I’m looking to collaborate on freelancer Django project
 - 📫 How to reach me fonglex@gmail.com
