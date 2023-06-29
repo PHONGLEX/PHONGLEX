@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PHONGLEX
-- 👀 I’m interested in Python, C#, AWS, SQL
-- 💞️ I’m looking to collaborate on freelancer Django/dotnet project
+- 👀 I’m interested in C++, C#, AWS, SQL
+- 💞️ I’m looking to collaborate on freelancer C++/dotnet project
 - 📫 How to reach me fonglex@gmail.com
 
 <!---
